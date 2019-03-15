@@ -1,0 +1,24 @@
+2019/02/27 11:21:35 [notice] 18868#20208: sockinit() attempting to access sockapi
+2019/02/27 11:21:35 [notice] 18868#20208: Access to sockapi succeded!
+2019/02/27 11:21:35 [notice] 18868#20208: using sockapi from "44;48;"
+2019/02/27 11:21:52 [notice] 17308#10876: Fatal: wait for sockapi failed
+2019/02/27 11:22:11 [error] 18868#20852: *1 CreateFile() "D:\stvi\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8888", referrer: "http://localhost:8888/"
+2019/02/27 11:35:05 [notice] 11732#18076: Fatal: wait for sockapi failed
+2019/03/15 14:11:46 [notice] 5760#13072: sockinit() attempting to access sockapi
+2019/03/15 14:11:46 [notice] 5760#13072: Access to sockapi succeded!
+2019/03/15 14:11:46 [notice] 5760#13072: using sockapi from "44;80;"
+2019/03/15 14:13:29 [error] 5760#11820: *1 CreateFile() "D:\stvi\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8888", referrer: "http://localhost:8888/"
+2019/03/15 14:27:50 [notice] 10016#5504: Fatal: wait for sockapi failed
+2019/03/15 14:57:38 [error] 5760#11820: *28 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8888"
+2019/03/15 14:57:39 [error] 5760#11820: *29 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "localhost:8888"
+2019/03/15 14:58:53 [error] 5760#11820: *37 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8888"
+2019/03/15 14:58:54 [error] 5760#11820: *38 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "localhost:8888"
+2019/03/15 14:59:05 [error] 5760#11820: *39 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8888"
+2019/03/15 14:59:06 [error] 5760#11820: *40 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "localhost:8888"
+2019/03/15 14:59:17 [error] 5760#11820: *41 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8888"
+2019/03/15 14:59:18 [error] 5760#11820: *42 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "localhost:8888"
+2019/03/15 14:59:29 [error] 5760#11820: *43 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8888"
+2019/03/15 14:59:30 [error] 5760#11820: *44 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "localhost:8888"
+2019/03/15 14:59:41 [error] 5760#11820: *48 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.1", host: "localhost:8888"
+2019/03/15 14:59:42 [error] 5760#11820: *49 CreateFile() "D:\stvi\nginx/hls/movie.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hls/movie.m3u8 HTTP/1.0", host: "localhost:8888"
+2019/03/15 15:01:43 [error] 5760#11820: *50 CreateFile() "D:\stvi\nginx/html/html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /html HTTP/1.1", host: "localhost:8888"
